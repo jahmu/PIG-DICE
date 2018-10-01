@@ -17,11 +17,11 @@ Players input                         |      Expected output
 --------------------------------------|--------------------------------------------------------------------------   
 When player rolls 1	                  |     He/She scores zero (opponents turn)
 --------------------------------------|-------------------------------------------------------------------------
-When player rolls another number	    |    It's added to your turn total and your turn continues
+When player rolls another number	  |    It's added to your turn total and your turn continues
 --------------------------------------|-------------------------------------------------------------------------
 When Player decides to hold           |    turn total is added to your score and becomes opponents turn
 --------------------------------------|-------------------------------------------------------------------------
-First player to score 100 points	    |     becomes the winner
+First player to score 100 points	  |     becomes the winner
 --------------------------------------|------------------------------------------------------------------------
 
 ## technologies used
