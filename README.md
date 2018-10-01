@@ -22,7 +22,7 @@ The player rolls another number	      |     It's added to your turn total and yo
 Player decides to hold                |     	Your turn total is added to your score and becomes opponents turn
 --------------------------------------|-------------------------------------------------------------------------
 First player to score 100 points	  |      Becomes the winner
---------------------------------------|-------------------------------------------------------------------------
+--------------------------------------|------------------------------------------------------------------------
 
 ## technologies used
 * HTML

@@ -23,7 +23,6 @@ $(document).ready(function () {
 		swal({
 			title: "Get Ready!",
 			text: "Play Pig Dice!!!",
-			// imageUrl: "assets/images/pig.jpg"
 		});
 
 		$("#roll1").click(function () {
