@@ -6,7 +6,6 @@
 ## description 
 This game entails two players where each player keys in or her name so that the application can identify the players names.Once you hit submit button you're taken to another page where you play the game till one of the players gives a higher number of rolls
 
-
 ## set up instruction
 You would need the following to access the website *Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet), *A web browser(Chrome is most recommendable) 
 
