@@ -1,0 +1,58 @@
+#section-1 {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 50px 50px 50px;
+  }
+  
+  #section-1 h1 {
+    font-size: 50px;
+    font-style: oblique;
+    color: brown;
+  }
+  
+  #section-2 {
+    display: none;
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  #pig {
+    color: indianred;
+  }
+  
+  #dice {
+    width: 100px;
+    height: 100px;
+    border: solid brown 5px;
+    text-align: center;
+    margin: 20px 100px 0px 150px;
+  }
+  
+  #dice h2 {
+    font-size: 50px;
+    color: rgb(97, 82, 0);
+  }
+  
+  button {
+    width: 150px;
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+    padding: 3px;
+  }
+  
+  #player1 {
+    color: blueviolet;
+  }
+  
+  #player2 {
+    color: aqua;
+  }
+  
+  .players {
+    color: rgb(65, 5, 5);
+  }
+  .jumbotron{
+    text-align: center;
+  }
+  
