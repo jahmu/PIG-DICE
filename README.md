@@ -15,13 +15,14 @@ https://jahmu.github.io/PIG-DICE/
 
 ## BDD
 Players input                         |      Expected output
---------------------------------------|--------------------------------------------------------------------------    The player rolls 1	                  |      Your score is zero (opponents turn)
+--------------------------------------|--------------------------------------------------------------------------   
+When player rolls 1	                  |     He/She scores zero (opponents turn)
 --------------------------------------|-------------------------------------------------------------------------
-The player rolls another number	      |     It's added to your turn total and your turn continues
+When player rolls another number	    |    It's added to your turn total and your turn continues
 --------------------------------------|-------------------------------------------------------------------------
-Player decides to hold                |     	Your turn total is added to your score and becomes opponents turn
+When Player decides to hold           |    turn total is added to your score and becomes opponents turn
 --------------------------------------|-------------------------------------------------------------------------
-First player to score 100 points	  |      Becomes the winner
+First player to score 100 points	    |     becomes the winner
 --------------------------------------|------------------------------------------------------------------------
 
 ## technologies used
