@@ -1,7 +1,7 @@
 # PIG-DICE
 
-## Author Name
-[link](https://github.com/jahmu)
+## Author
+Jamleck Ndung'u
 
 ## description 
 This game entails two players where each player keys in or her name so that the application can identify the players names.Once you hit submit button you're taken to another page where you play the game till one of the players gives a higher number of rolls
@@ -10,7 +10,7 @@ This game entails two players where each player keys in or her name so that the 
 You would need the following to access the website *Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet), *A web browser(Chrome is most recommendable) 
 
 ## link to live site on GitHub pages
-https://jahmu.github.io/PIG-DICE/
+[Link](https://jahmu.github.io/PIG-DICE/)
 
 ## BDD
 Players input                         |      Expected output
