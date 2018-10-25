@@ -1,7 +1,7 @@
 # PIG-DICE
 
 ## Author Name
-[Jamleck Ndung'u](https://github.com/jahmu)
+[link](https://github.com/jahmu)
 
 ## description 
 This game entails two players where each player keys in or her name so that the application can identify the players names.Once you hit submit button you're taken to another page where you play the game till one of the players gives a higher number of rolls
