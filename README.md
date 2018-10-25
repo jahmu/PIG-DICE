@@ -10,7 +10,7 @@ This game entails two players where each player keys in or her name so that the 
 You would need the following to access the website *Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet), *A web browser(Chrome is most recommendable) 
 
 ## link to live site on GitHub pages
-[Link](https://jahmu.github.io/PIG-DICE/)
+[Enjoy](https://jahmu.github.io/PIG-DICE/)
 
 ## BDD
 Players input                         |      Expected output
